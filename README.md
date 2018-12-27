@@ -16,3 +16,5 @@ The program has the following functionalities:
   12. Display Head
   13. Display Tail
   14. Search
+
+The doubly linked list implemented does not allow for duplicates and holds integers
